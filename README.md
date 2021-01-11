@@ -1,7 +1,7 @@
 # SVM_Novelty_Detection
 ## Files
-* [Main notebook "One_Class_SVM_Novelty_Detection.ipynb"]
-* [Images]
+* Main notebook "One_Class_SVM_Novelty_Detection.ipynb"
+* Images
 
 
 ## Requirements. Setup
