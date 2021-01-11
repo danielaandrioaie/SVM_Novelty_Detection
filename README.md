@@ -1,5 +1,5 @@
 # SVM_Novelty_Detection
-
+https://drive.google.com/file/d/1lwktG1FbJLjKpiPs-VpC4DuofmKtJcyv/view?usp=sharing 
 Some calculations might take a lot of time, thus I recommend you to use GoogleColab.
 
 Files
