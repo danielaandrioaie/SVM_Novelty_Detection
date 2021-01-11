@@ -8,6 +8,8 @@
 ## Files
 * Main notebook "One_Class_SVM_Novelty_Detection.ipynb"
 * Images
+* src file: used for SVDD(Tax and Duin) implementation 
+
 
 ## About
 The present work is as an attempt to provide an algorithm which is in line
@@ -21,6 +23,7 @@ accomplishing this task is the empirical measure, which simply looks at how many
 training points fall into the region of interest. **This algorithm does the opposite. It starts
 with the number of training points that are supposed to fall into the region, and then estimates
 a region with the desired property.**
+We did novelty detection using Schölkopf approach and Tax and Duin approach and then we compared the results.
 
 ## Compulsory
 * Enjoy! 
