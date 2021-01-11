@@ -9,6 +9,7 @@
 * Main notebook "One_Class_SVM_Novelty_Detection.ipynb"
 * Images
 * src file: used for SVDD(Tax and Duin) implementation 
+* pdf file: with the research paper on which we based our project
 
 
 ## About
